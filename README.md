@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="DZHome%20Logo%20V1%no%shade.png" alt="DZHome Logo">
+  <img src="DZHome%20Logo%20V1%20no%20shade.png" alt="DZHome Logo">
 </div>
 
 # DZHome
