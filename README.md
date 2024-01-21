@@ -11,15 +11,15 @@ In order to use DZHome, users will need to download the required files from the 
 
 ## Requirements
 DZHome requires the following dependencies in order to function:
--tkinter
--matplotlib
--detritalpy
--numpy
--pandas
--os
--seaborn
--sklearn
--math
--scipy
--random
--time
+- tkinter
+- matplotlib
+- detritalpy
+- numpy
+- pandas
+- os
+- seaborn
+- sklearn
+- math
+- scipy
+- random
+- time
