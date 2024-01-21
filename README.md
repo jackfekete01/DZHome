@@ -8,3 +8,18 @@ DZHome is a Python GUI script that allows users to interact with detrital zircon
 
 ## Installation
 In order to use DZHome, users will need to download the required files from the DZHome branch. 
+
+## Requirements
+DZHome requires the following dependencies in order to function:
+tkinter
+matplotlib
+detritalpy
+numpy
+pandas
+os
+seaborn
+sklearn
+math
+scipy
+random
+time
