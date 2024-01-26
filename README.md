@@ -23,3 +23,6 @@ DZHome requires the following dependencies in order to function:
 - scipy
 - random
 - time
+
+## Data Formatting
+DZHome requires the input data to follow a specific formatting. Input files must be Excel files (.xlsx) and follow the column header guide in the example dataset.
