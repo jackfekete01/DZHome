@@ -35,4 +35,6 @@ DZHome requires the input data to follow a specific format. Input files must be 
 - Error (1sig) 
 - Long Axis (um)
 
-Every analysis requires a sample ID, the Best Age, and the 1sigma error of that analysis. To use the HydroFrac module, Long Axis measurements in um are also required but not needed for other modules.
+Every analysis requires a sample ID, the Best Age, and the 1sigma error of that analysis. To use the HydroFrac module, long-axis measurements in um are also required but not needed for other modules.
+
+## Data Input
