@@ -37,4 +37,11 @@ DZHome requires the input data to follow a specific format. Input files must be 
 
 Every analysis requires a sample ID, the Best Age, and the 1sigma error of that analysis. To use the HydroFrac module, long-axis measurements in um are also required but not needed for other modules.
 
+## Getting Started
+To begin, download the current version of DZHome. Once downloaded, relocate DZHome to the file directory where your data, or the test data, is stored. From here, DZHome can be opened in Jupyter Lab or Jupyter Notebook. Once open, simply run the code to get started!
+
 ## Data Input
+<div align="center">
+  <img src="DZ%20Home%20Data%20Input.png" alt="Data Input">
+</div>
+
