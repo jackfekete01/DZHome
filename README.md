@@ -29,8 +29,8 @@ DZHome requires the following dependencies in order to function:
   <img src="Data%20Formatting%20Example.png" alt="Formatting Example">
 </div>
 DZHome requires the input data to follow a specific format. Input files must be Excel files (.xlsx) and follow the column header guide in the example dataset seen above. The following columns are required for data input:
-- Sample ID 
-- Best age 
-- Error (1sig) 
-- Long Axis (um)
+-   Sample ID 
+-   Best age 
+-   Error (1sig) 
+-   Long Axis (um)
  Every analysis requires a sample ID, the Best Age, and the 1sigma error of that analysis. To use the HydroFrac module, Long Axis measurements in um are also required but not needed for other modules.
