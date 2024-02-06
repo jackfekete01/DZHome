@@ -49,6 +49,6 @@ The image above shows the initial data loading screen for DZHome. If your file i
 
 ## Home Window
 <div align="center">
-  <img src="DZHome%Home%20Screen%20.png" alt="DZHome Data Input">
+  <img src="DZHome%Home%20Screen.png" alt="DZHome Data Input">
 </div>
 
