@@ -42,6 +42,6 @@ To begin, download the current version of DZHome. Once downloaded, relocate DZHo
 
 ## Data Input
 <div align="center">
-  <img src="DZHome%20Logo%20V1%20no%20shade.png" alt="DZHome Data Input">
+  <img src="DZHome%20Data%20Input%20.png" alt="DZHome Data Input">
 </div>
 
