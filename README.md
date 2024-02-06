@@ -45,3 +45,4 @@ To begin, download the current version of DZHome. Once downloaded, relocate DZHo
   <img src="DZHome%20Data%20Input%20.png" alt="DZHome Data Input">
 </div>
 
+The image above shows the initial data loading screen for DZHome. If your file is located in the same directory as DZHome and is an Excel Workbook file (.xlsx), the file can easily be located using the drop down menu. Once you have selected the file you want, press 'Load Data' to begin.
