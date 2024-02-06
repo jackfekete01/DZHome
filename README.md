@@ -25,4 +25,7 @@ DZHome requires the following dependencies in order to function:
 - time
 
 ## Data Formatting
+<div align="center">
+  <img src="Data%20Formatting%20Example.png" alt="Formatting Example">
+</div>
 DZHome requires the input data to follow a specific format. Input files must be Excel files (.xlsx) and follow the column header guide in the example dataset seen below. 
