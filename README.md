@@ -4,7 +4,7 @@
 
 # DZHome
 
-DZHome is a Python GUI script that allows users to interact with detrital zircon U-Pb data sets by plotting data, creating maximum depositional age (MDA) approximations, comparing similarity/ dissimilarity metrics, and exploring the effects of hydrodynamic fractionation on DZ age populations. DZHome allows users to harness the analytical power of Python through an easy-to-use GUI. DZHome can be implemented via a Jupyter Notebook or Py file. 
+DZHome is a Python GUI script that allows users to interact with detrital zircon U-Pb data sets by plotting data, creating maximum depositional age (MDA) approximations, comparing similarity/ dissimilarity metrics, and exploring the effects of hydrodynamic fractionation on DZ age populations. DZHome allows users to harness the analytical power of Python through an easy-to-use GUI. DZHome can be implemented via a Jupyter Notebook file. 
 
 ## Installation
 In order to use DZHome, users will need to download the required files from the DZHome branch. 
@@ -51,4 +51,10 @@ The image above shows the initial data loading screen for DZHome. If your file i
 <div align="center">
   <img src="https://raw.githubusercontent.com/jackfekete01/DZHome/refs/heads/Assets/DZHome%20Home%20Screen.png?token=GHSAT0AAAAAAC4D3YAJDJ5DHFQX5JJXVYR4Z4D6QDQ" alt="DZHome Data Input">
 </div>
+
+Once you have selected your data, DZHome will bring you to the home window. Here, users can see the data they have input and select one of the four main functions of DZHome. 
+- Plot: a plotting function that allows users to visualize their detrital zircon data
+- Stats: a function that allows for comparison and basic visualization of samples
+- MDA: calculate maximum depositional age approximation from samples and visualize these approximations in ranked-date plots or pair date-KDE plots
+- Hydrofrac: calculate the amount of hydrodynamic fractionation present in your dataset
 
