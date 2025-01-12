@@ -58,3 +58,4 @@ Once you have selected your data, DZHome will bring you to the home window. Here
 - MDA: calculate maximum depositional age approximation from samples and visualize these approximations in ranked-date plots or pair date-KDE plots
 - Hydrofrac: calculate the amount of hydrodynamic fractionation present in your dataset
 
+## Plot
