@@ -74,4 +74,8 @@ Three types of plots can be generated using the plot function:
 - PDP
 - CDF
 
-If plotting a KDE, the bandwidth can be specified in the box below. If not specified, a default value of 10 Myr will be used. 
+If plotting a KDE, the bandwidth can be specified in the box below. If not specified, a default value of 10 Myr will be used.
+
+### 3) Plot Dimensions
+Users can specify the dimensions and axes bounds of each plot. To specify the axes' bounds, users can enter the left and right bounds for each axes. For example, to specify a plot with x-axis bounds from 0 - 1500 Ma, users must enter "0,1500" in the x-bounds box. The same can be done for y-bounds. 
+The height and width of the plot can also be specified by simply inputting a number in each box. 
