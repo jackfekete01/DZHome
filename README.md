@@ -62,3 +62,7 @@ Once you have selected your data, DZHome will bring you to the home window. Here
 <div align="center">
   <img src="https://raw.githubusercontent.com/jackfekete01/DZHome/refs/heads/Assets/DZHome%20-%20Plot%20Image.PNG" alt="DZHome Plot Page">
 </div>
+
+The Plot function allows users to easily visualize their data through various plotting combinations. Plotting multiple or individual samples can be done by following the steps listed on the plotting page, which are outline below.
+
+# 1) Select Samples
