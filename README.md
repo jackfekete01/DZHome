@@ -59,3 +59,6 @@ Once you have selected your data, DZHome will bring you to the home window. Here
 - Hydrofrac: calculate the amount of hydrodynamic fractionation present in your dataset
 
 ## Plot
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jackfekete01/DZHome/refs/heads/Assets/DZHome%20-%20Plot%20Image.PNG" alt="DZHome Plot Page">
+</div>
