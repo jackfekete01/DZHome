@@ -63,7 +63,15 @@ Once you have selected your data, DZHome will bring you to the home window. Here
   <img src="https://raw.githubusercontent.com/jackfekete01/DZHome/refs/heads/Assets/DZHome%20-%20Plot%20Image.PNG" alt="DZHome Plot Page">
 </div>
 
-The Plot function allows users to easily visualize their data through various plotting combinations. Plotting multiple or individual samples can be done by following the steps listed on the plotting page, which are outline below.
+The Plot function allows users to visualize their data easily through various plotting combinations. Plotting multiple or individual samples can be done by following the steps listed on the plotting page, which are outlined below.
 
 ### 1) Select Samples
 Clicking 'Select Samples' will open a new window with all samples from the dataset. Clicking a sample adds it to the list of samples to be plotted. Note that the order in which the samples are selected will be the order in which the samples are plotted. Samples can also be removed from the list by clicking them.
+
+### 2) Select Plot Type
+Three types of plots can be generated using the plot function:
+- KDE
+- PDP
+- CDF
+
+If plotting a KDE, the bandwidth can be specified in the box below. If not specified, a default value of 10 Myr will be used. 
