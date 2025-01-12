@@ -82,6 +82,10 @@ The height and width of the plot can also be specified by simply inputting a num
 
 ### 4) Plot Colors
 Users have several options to color plots. For each, the user must select the option before changing the colors.
-- Color by Sample: Click the 'Select Color Scheme'. This will open a second window with several color schemes. Click the dropdown menu under 'Select Colormap' to select the desired colormap. Once done, press 'Submit'.
+- Color by Sample: Click 'Select Color Scheme'. This will open a second window with several color schemes. Click the dropdown menu under 'Select Colormap' to select the desired colormap. Once you've done this, press 'Submit.'
 - Color by Age: Next to 'Age bins,' enter the age bins desired for each color. For example, if you want age bins between 0-500 Ma, users need to input "0,500". Next to 'Colors', input the desired colors for that age bin with commas as separators (e.g., blue,black,yellow). DO NOT PUT SPACES AFTER EACH COLOR.
 - Custom Colors: You can specify the colors for each sample to be plotted by providing a list of colors separated by commas (e.g., blue,black,yellow). By default, any samples that are not specified will be colored blue. DO NOT PUT SPACES AFTER EACH COLOR.
+
+### Generate Preview
+With all options filled in above, press 'Generate Preview' to see a preview of your plot. 
+  
