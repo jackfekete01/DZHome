@@ -92,3 +92,8 @@ With all options filled in above, press 'Generate Preview' to see a preview of y
 ### Navigating and Saving Plots
 Plots can be navigated using the toolbar as the bottom of every plot. This toolbar allows user to pan around, zoom in, and adjust plot dimensions. All edits to plots can be reset using the home button to the left. 
 Once finalized, plots can be saved using the save button, furthest to the right. 
+
+## Stats
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jackfekete01/DZHome/refs/heads/Assets/DZHome%20-%20Stats%20Window.PNG" alt="DZHome Stats Page">
+</div>
