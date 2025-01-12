@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="DZHome%20Logo%20V1%20no%20shade.png" alt="DZHome Logo">
+  <img src="https://raw.githubusercontent.com/jackfekete01/DZHome/refs/heads/Assets/DZHome%20Logo%20V1.png?token=GHSAT0AAAAAAC4D3YAJXHR2IVSFW4WYDHZQZ4D53UA" alt="DZHome Logo">
 </div>
 
 # DZHome
