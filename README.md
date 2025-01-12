@@ -26,7 +26,7 @@ DZHome requires the following dependencies in order to function:
 
 ## Data Formatting
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jackfekete01/DZHome/refs/heads/Assets/Data%20Formatting%20Example.png?token=GHSAT0AAAAAAC4D3YAIO4JOSZG3V7AMHXCAZ4D55AA" alt="Formatting Example">
+  <img src="https://raw.githubusercontent.com/jackfekete01/DZHome/refs/heads/Assets/Data%20Formatting%20Example.png?token=GHSAT0AAAAAAC4D3YAJECRFYGOVOSL74O3SZ4D6PSA" alt="Formatting Example">
 </div>
 
 DZHome requires the input data to follow a specific format. Input files must be Excel files (.xlsx) and follow the column header guide in the example dataset seen above. The following columns are required for data input:
@@ -42,13 +42,13 @@ To begin, download the current version of DZHome. Once downloaded, relocate DZHo
 
 ## Data Input
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jackfekete01/DZHome/refs/heads/Assets/DZHome%20Data%20Input%20.png?token=GHSAT0AAAAAAC4D3YAJ5U45BGYKLU2J6CGKZ4D55NA" alt="DZHome Data Input">
+  <img src="https://raw.githubusercontent.com/jackfekete01/DZHome/refs/heads/Assets/DZHome%20Data%20Input%20.png?token=GHSAT0AAAAAAC4D3YAJA4RKEILHMN2WEEZSZ4D6P2A" alt="DZHome Data Input">
 </div>
 
 The image above shows the initial data loading screen for DZHome. If your file is located in the same directory as DZHome and is an Excel Workbook file (.xlsx), the file can easily be located using the drop down menu. Once you have selected the file you want, press 'Load Data' to begin.
 
 ## Home Window
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jackfekete01/DZHome/refs/heads/Assets/DZHome%20Home%20Screen.png?token=GHSAT0AAAAAAC4D3YAIJWCFAD6NHED4Z7YEZ4D55VA" alt="DZHome Data Input">
+  <img src="https://raw.githubusercontent.com/jackfekete01/DZHome/refs/heads/Assets/DZHome%20Home%20Screen.png?token=GHSAT0AAAAAAC4D3YAJDJ5DHFQX5JJXVYR4Z4D6QDQ" alt="DZHome Data Input">
 </div>
 
