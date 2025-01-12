@@ -65,4 +65,4 @@ Once you have selected your data, DZHome will bring you to the home window. Here
 
 The Plot function allows users to easily visualize their data through various plotting combinations. Plotting multiple or individual samples can be done by following the steps listed on the plotting page, which are outline below.
 
-# 1) Select Samples
+### 1) Select Samples
