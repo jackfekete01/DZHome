@@ -108,5 +108,6 @@ Next, select an option to compare samples. Comparison options include:
 - Likeness
 - R2
 
-Next, click 'Select Samples' to choose the desired samples for comparison. This will open a separate window where users can select the samples they want to use. Finally, click generate plots to view results.  
+Next, click 'Select Samples' to choose the desired samples for comparison. This will open a separate window where users can select the samples they want to use. Finally, click 'Generate Plots' to view results. This will generate a heatmap of all samples (top left), a plot of KDEs or PDPs (bottom left), a plot of all CDFs (bottom right), and a multi-dimensional scaling plot using the comparison type (top right). Users can freely change the distribution type and comparison option to generate new sample results. 
 
+Lastly, users can export a results table by clicking 'Export Table.' 
