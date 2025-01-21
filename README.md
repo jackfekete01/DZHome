@@ -97,3 +97,13 @@ Once finalized, plots can be saved using the save button, furthest to the right.
 <div align="center">
   <img src="https://raw.githubusercontent.com/jackfekete01/DZHome/refs/heads/Assets/DZHome%20-%20Stats%20Window.PNG" alt="DZHome Stats Page">
 </div>
+
+The Stats function allows users to compare and contrast samples within their dataset using standard geochronologic statistical methods. Users can start by selecting the desired distribution type for their age distributions, either KDEs or PDPs. For KDEs, users can specify the bandwidth, with a default value of 10 Myrs being used if not specified. However, comparison methods that use CDFs (Dmax, Vmax) will automatically choose CDFs even if another distribution type is selected.
+
+Next, select an option to compare samples. Comparison options include:
+- DMax
+- VMax
+- W1 Distance
+- Similarity
+- Likeness
+- R$^2$
