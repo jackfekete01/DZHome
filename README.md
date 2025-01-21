@@ -106,4 +106,7 @@ Next, select an option to compare samples. Comparison options include:
 - W1 Distance
 - Similarity
 - Likeness
-- R^2
+- R2
+
+Next, click 'Select Samples' to choose the desired samples for comparison. This will open a separate window where users can select the samples they want to use. Finally, click generate plots to view results.  
+
