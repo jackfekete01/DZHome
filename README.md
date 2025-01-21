@@ -106,4 +106,4 @@ Next, select an option to compare samples. Comparison options include:
 - W1 Distance
 - Similarity
 - Likeness
-- R$^2$
+- R^2
